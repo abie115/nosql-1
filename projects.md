@@ -58,6 +58,7 @@ Wpisać nazwę zespołu z linkiem do repozytorium z kodem i dokumentacją.
 
 1. [ABC](https://github.com/egzamin/nosql/blob/master/Aggregations_Pipeline.md)
 2. [Baranki](https://github.com/kropeq/baranki)
+1. [Bie](https://github.com/abie115/nosql-exam)
 
 
 
